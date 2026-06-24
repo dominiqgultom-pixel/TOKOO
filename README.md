@@ -1,4 +1,3 @@
-Berikut adalah halaman HTML yang menampilkan daftar jajanan khas Indonesia dari gambar Anda, dengan gaya bernomor dan informasi profil Anda.
 ```html
 <!DOCTYPE html>
 <html lang="id">
